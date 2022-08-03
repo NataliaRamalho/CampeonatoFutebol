@@ -28,3 +28,5 @@ Pronto a aplicação está executando.😃 </p>
 <p> Caso queira alterar o código, abra o arquivo "campeonatoFutebol.c" em uma IDE,
 como por exemplo <a href="https://www.codeblocks.org/downloads/"> CodeBlocks </a> 
 ou <a href ="https://www.techtudo.com.br/tudo-sobre/bloodshed-dev-c.html" > Dev C++ </a> </p>
+
+⏰ Projeto desenvolvido em set/2018
